@@ -1,0 +1,23 @@
+{
+  "name": "blockchain-cascade-utility",
+  "version": "1.0.0",
+  "description": "Unlock the full potential of blockchain technology with Cascade Utility, a toolkit for seamless integration and optimization.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wenmunsir/blockchain-cascade-utility"
+  },
+  "author": "wenmunsir",
+  "license": "MIT",
+  "dependencies": {
+    "blockchain-cascade-utility": "1.0.0",
+    "cascade-pro-extender": "1.0.0",
+    "ejs": "1.0.0",
+    "commander": "1.0.0",
+    "enzyme": "1.0.0",
+    "passport": "1.0.0"
+  }
+}
